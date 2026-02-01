@@ -619,9 +619,9 @@ copies or substantial portions of the Software.
 ## 📞 Contact
 
 **Project Maintainer**: Adnan Odeh
-- GitHub: [@yourusername](https://github.com/AdnanOdeh04)
+- GitHub: (https://github.com/AdnanOdeh04)
 - Email: adnanodeh2004@gmail.com
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/adnan-odeh-0590a9274/))
+- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/adnan-odeh-0590a9274/])
 
 **Project Link**: [https://github.com/yourusername/pipelined-processor](https://github.com/AdnanOdeh04/Pipelined-Predicted-RISC-Processor)
 
